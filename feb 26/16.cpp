@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     string to_bits(int n){
         string s; 
         do{
